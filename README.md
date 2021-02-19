@@ -1,7 +1,4 @@
 
-
-
-#### Trying to learn evertyhing about coding !!!
 ### ⚡ I want to have more people around me interested in software because I got that venom
 ![alttext](https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47k5oa857es3fczfpn841d0vsy2ok1zo3wqtebioh4&rid=giphy.gif)
 
