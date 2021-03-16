@@ -6,7 +6,7 @@
 ## Languages and Tools:
 
 
-<img align="left" alt="CSharp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" />
+<img align="left" alt="CSharp" width="40px" src="https://img2.pngindir.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt=".NET Core" width="40px" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png" />
 <img align="left" alt="Visual Stodio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
